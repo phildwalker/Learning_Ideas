@@ -1,0 +1,35 @@
+Using the tidy models packacage
+  > parsnip
+  > tidymodel
+  > tidypredict
+  
+Working with gis/ maps stuff
+  > Would be really cool to be able to parse data from USA swimming to map where clubs are
+   > Are there correlations between locations and performance
+  > Are there other US orgs that have data that is available?
+  
+Working on analysis of Fantasy football stuff
+  > optimizing which people to select from team
+   > predicting amount of points will get, and then compare against what actually got
+   
+Implement personal blog website
+  > netlify
+  
+Setting up instances on AWS... learning how to use R in flexible environ
+  > blog about it:: https://jagg19.github.io/2019/08/aws-r/
+  
+Is it possible to get at data for ultimate frisbee?
+  > Plotting where the scoring throw happens from the field
+  > left handed vs RH scoring
+  > likelihood of a win depending on current score and time left?
+  > how many throws until a score?
+  > example:: http://karinehsu.github.io/cs109-final-project/website/
+  > getting data:: https://www.ultianalytics.com/team/6466345621258240/main-classic
+ 
+ 
+Analyzing data from twitter 
+
+Pulling data from a website to analyze
+
+
+
